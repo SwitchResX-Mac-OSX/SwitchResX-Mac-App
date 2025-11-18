@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://get-install-osx.github.io/.github/switchresx" target="_blank">  
+<a href="https://mac-software-apps.github.io/.github/switchresx" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get SwitchResX for Mac">  
 </a>  
 </div>  
